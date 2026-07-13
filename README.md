@@ -49,9 +49,12 @@ Gwen runs 100% locally on the user's laptop/desktop:
    ```bash
    npm run dev
    ```
+## Dashboard Screenshots
+<img width="1850" height="897" alt="image" src="https://github.com/user-attachments/assets/d21e25a2-d534-4554-99f5-b59fd9dcd2b5" />
+<img width="1752" height="900" alt="image" src="https://github.com/user-attachments/assets/4e67ff93-deb5-4419-8a47-aa4647eda374" />
 
-## Demo and Screenshots
-*(Coming soon: Links to the Demo video and dashboard screenshots will be placed here prior to the final submission)*
+## Demo 
+*(Coming soon: Links to the Demo video will be placed here prior to the final submission)*
 
 ## License
 This project is licensed under the MIT License.
