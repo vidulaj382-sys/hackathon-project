@@ -23,6 +23,14 @@ Gwen runs 100% locally on the user's laptop/desktop:
 
 ## Setup and Usage
 
+### Prerequisites
+Before setting up the project, make sure you have:
+- **Python 3.8+** installed.
+- **Node.js (v18+)** installed.
+- **PortAudio** installed on your system (only required for Linux/macOS; Windows includes PortAudio binaries in the `sounddevice` package):
+  - On Ubuntu/Debian: `sudo apt-get install portaudio19-dev`
+  - On macOS (via Homebrew): `brew install portaudio`
+
 ### 1. Backend Setup
 1. Navigate to the `backend` directory.
 2. Create and activate a virtual environment:
@@ -34,7 +42,12 @@ Gwen runs 100% locally on the user's laptop/desktop:
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the backend server:
+4. **Download the offline AI speech models** (required before running the server):
+   ```bash
+   python download_models.py
+   ```
+   *Note: This script downloads the local Kokoro-ONNX voice files and the Vosk speech-to-text models.*
+5. Run the backend server:
    ```bash
    python main.py
    ```
@@ -49,12 +62,9 @@ Gwen runs 100% locally on the user's laptop/desktop:
    ```bash
    npm run dev
    ```
-## Dashboard Screenshots
-<img width="1850" height="897" alt="image" src="https://github.com/user-attachments/assets/d21e25a2-d534-4554-99f5-b59fd9dcd2b5" />
-<img width="1752" height="900" alt="image" src="https://github.com/user-attachments/assets/4e67ff93-deb5-4419-8a47-aa4647eda374" />
 
-## Demo 
-*(Coming soon: Links to the Demo video will be placed here prior to the final submission)*
+## Demo and Screenshots
+*(Coming soon: Links to the Demo video and dashboard screenshots will be placed here prior to the final submission)*
 
 ## License
 This project is licensed under the MIT License.

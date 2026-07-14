@@ -1,0 +1,9 @@
+flask==3.0.0
+flask-cors==4.0.0
+vosk==0.3.45
+sounddevice==0.4.6
+sympy==1.12
+mathparse==0.1.2
+numpy==1.26.4
+onnxruntime==1.17.1
+kokoro-onnx==0.1.0
