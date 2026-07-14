@@ -63,8 +63,17 @@ Before setting up the project, make sure you have:
    npm run dev
    ```
 
-## Demo and Screenshots
-*(Coming soon: Links to the Demo video and dashboard screenshots will be placed here prior to the final submission)*
-
+## Demo and Screenshots - (Dual Interface)
+Modern Layout:
+<img width="1896" height="905" alt="Screenshot 2026-07-14 231038" src="https://github.com/user-attachments/assets/6fcbec7b-3df0-4a21-8989-4b92cf1270a3" />
+Retro Layout:
+<img width="1897" height="906" alt="Screenshot 2026-07-14 231142" src="https://github.com/user-attachments/assets/49afb6c0-cf7a-43fb-bf98-62eea508032e" />
+Some more features:
+( here are some screenshots of retro theme)
+<img width="1901" height="903" alt="Screenshot 2026-07-14 231225" src="https://github.com/user-attachments/assets/80e151ef-620e-4ba1-a9ac-d8a01ece541c" />
+<img width="1901" height="907" alt="Screenshot 2026-07-14 231251" src="https://github.com/user-attachments/assets/6deab33d-22d7-457e-93a2-01e48848d31c" />
+(these are some screenshots of modern theme)
+<img width="1896" height="907" alt="image" src="https://github.com/user-attachments/assets/1e5b5e97-aadd-4909-aeac-2236a2be42d8" />
+( we have tried to cover all the features through both the layout )
 ## License
 This project is licensed under the MIT License.
