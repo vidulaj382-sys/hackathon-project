@@ -1,6 +1,6 @@
 # Project Gwen
 
-Project Gwen is a Zero-Cloud AI voice-controlled mental math (Anzan) training assistant designed to run entirely offline with a stunning dark-mode dashboard.
+Project Gwen is a Zero-Cloud AI voice-controlled mental math (Anzan) training assistant designed to run entirely offline with a stunning dual layout dashboard -Modern & Retro.
 
 ## Problem
 In an era where educational AI tools heavily rely on cloud APIs, user privacy is often compromised, and persistent internet connections are required. Furthermore, there is a lack of gamified, hands-free mental math training tools that focus on speed and accuracy without compromising local data ownership.
@@ -71,7 +71,7 @@ Before setting up the project, make sure you have:
 ## Demo and Screenshots - (Dual Interface)
 
 ### Demo Video
-*(Add your Unstop final submission YouTube/Drive video link here!)*
+https://drive.google.com/drive/folders/1zoQ0PJrTpskcSEB_P6fyXvTmljr56MyN?usp=sharing
 
 ### Screenshots
 Modern Layout:
