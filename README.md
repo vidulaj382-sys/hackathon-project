@@ -71,7 +71,7 @@ Before setting up the project, make sure you have:
 ## Demo and Screenshots - (Dual Interface)
 
 ### Demo Video
-*(Add your Unstop final submission YouTube/Drive video link here!)*
+https://drive.google.com/drive/folders/1zoQ0PJrTpskcSEB_P6fyXvTmljr56MyN?usp=sharing
 
 ### Screenshots
 Modern Layout:
