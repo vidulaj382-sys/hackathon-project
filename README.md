@@ -85,5 +85,24 @@ Some more features:
 (these are some screenshots of modern theme)
 <img width="1896" height="907" alt="image" src="https://github.com/user-attachments/assets/1e5b5e97-aadd-4909-aeac-2236a2be42d8" />
 ( we have tried to cover all the features through both the layout )
+
+### Future Scope
+
+* AI-based personalized learning for every student.
+* Real-time finger tracking using a webcam.
+* Voice-controlled learning with speech recognition.
+* Support for multiple regional languages.
+* Advanced levels including multiplication, division, and Anzan.
+* Teacher and parent dashboard for performance tracking.
+* Gamification with badges, leaderboards, and daily challenges.
+* Offline and cloud synchronization across devices.
+* AR/VR-based interactive learning experience.
+* AI analytics to identify weak areas and recommend practice.
+* Online competitions and digital certificates.
+* Integration with wearable devices for smart learning.
+* Selling model and its price as 299.
+* Webcam test, boss fights, and weekly fights for ultimate engagement.
+* AI analysis for detailed progress tracking.
+
 ## License
 This project is licensed under the MIT License.
