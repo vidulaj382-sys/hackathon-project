@@ -63,6 +63,11 @@ Before setting up the project, make sure you have:
    npm run dev
    ```
 
+## Sample Inputs and Expected Outputs
+- **Expected Output (TTS):** "What is twelve plus seven?"
+- **Sample Input (User Voice):** "Nineteen."
+- **Expected Output (System):** The backend validates `19 == (12 + 7)` via SymPy, plays a success chime, updates the local MMR in SQLCipher, and synthesizes the next drill.
+
 ## Demo and Screenshots
 *(Coming soon: Links to the Demo video and dashboard screenshots will be placed here prior to the final submission)*
 
